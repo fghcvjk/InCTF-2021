@@ -1,0 +1,33 @@
+ Heist Continues
+996
+
+Description
+
+Our analyst team at Intelligence Bureau need answers for few more questions. Can you help them out in finding answers for below questions?
+
+Questions:
+
+    What is the workspace ID and USER ID of the Slack workspace that is the user participating in?
+        Answer in T0A0A0A0A0A_U0A0A0A0A0 (All in Uppercase)
+
+    There was a remote connection and we think there is a secret text on the remote connected PC's wallpaper. What are the first and last 3 characters of the secret text?
+        Format: abcxyz
+
+    Team restored 2 USB devices (Sandisk 3.2Gen1 & Toshiba External USB 3.0) at the leader's place. What is the file system of these 2 USB devices?
+        Format: FileSystem1_FileSystem2 (All in caps)
+
+    Team found some traces of Voice Modulator, How much time did the user actively used this Voice Modulator?
+        Answer in X Seconds.
+
+Note:
+
+    Wrap the answers around inctf{}.
+    Sample Flag: inctf{T0A0A0A0A0A_U0A0A0A0A0_abcxyz_FileSystem1_FileSystem2_X}
+    The challenge file is same as that of Heist challenge.
+    Flag is Case Sensitive
+
+Challenge Author: g4rud4
+
+Hint
+
+How does Windows build timeline for user activity? Think again.

@@ -1,0 +1,12 @@
+Darkness
+925
+
+Description: We have received the report that a certain employee of of an organization might have stolen confidential information and hidden in his system. We seized his laptop and collected a forensic image of the system. Our intel suggests that the employee might have visited suspicious websites and also deleted key files from the system which could've been vital for us. Could you please recover it?
+
+Challenge link: https://storagefor.bi0s.in/Darkness-Evidence.7z
+
+    Mirror Link
+
+Password (of the archive): d:'2;]7{<-v5^4]tz@*s+%qqd}c|&mv]
+
+Author: stuxn3t

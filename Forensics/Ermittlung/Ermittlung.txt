@@ -1,0 +1,35 @@
+ Ermittlung
+359
+
+Description
+
+Our Incident Response team started their investigation on a device found when pinning down a terrorist. They got some doubts while analyzing the device, So they framed these questions can you help them in answering these questions? Our Intelligence report states that the terrorist used a legit chat application for communication among themselves.
+
+Questions:
+
+    What is the name of the chat application program?
+        Ex: Mozilla_Firefox (Use Name of the program, Not the name of the binary. If there is a space replace it with _. )
+
+    When did the user last used this chat application?
+        Answer in DD-MM-YYYY_HH:MM:SS. Timestamp in UTC
+
+    How many unread messages are there in the chat application that the user is using?
+        Answer should be an integer n.
+
+    What is the current version of the chat application that's being used?
+        Answer in X.X.XXXX.XXXX
+
+Note:
+
+    Wrap the answers around inctf{}.
+    Sample flag: inctf{Mozilla_Firefox_31-07-2020_19:00:00_10_1.2.2345.5678}
+    Flag is Case Sensitive
+
+Challenge Download Links:
+
+    Primary Link
+    https://drive.google.com/file/d/1qDZAtOLhVT-qr97W1bXo36poTMekvEOU/view?usp=sharing
+
+MD5 Hash: ermittlung.raw 110305F3CF71432B4DFAFD1538CDF850
+
+Challenge Author: g4rud4
