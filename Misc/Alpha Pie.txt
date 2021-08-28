@@ -1,0 +1,35 @@
+Alpha Pie
+100
+
+We have created a mini game to test your skills. Go grab the flag!!
+
+authors : careless_finch, malf0y
+nc misc.challenge.bi0s.in 1337
+
+
+root@ubuntu:~# nc misc.challenge.bi0s.in 1337
+Welcome to Alpha pie game!!!
+Rules:
+1. To complete one level you have match the left matrix to the right one by moiving each letter to their position in the right matrix
+2. Moving to only adjecent column or row is possible.
+3. Diagonal movements are not possible
+4. negative numbers are not allowed in the input
+5. The input format should be 'current-x-cord,current-y-cord,to-x-cord,to-y-cord'.
+   eg : 0,0,0,1 (Will move letter at position 0,0 to position 0,1 if a letters is present at 0,0 and no letter is present at 0,1).
+7. Number of moves will be limited for each level.
+8. The game has a time limit of 'n' minutes.
+9. You will lose the game if you enter certain number of invalid moves
+10. After you pass 9 levels you will ge the flag.
+   Good luck ! Enjoy the game 👍
+
+Press 'y' to start: y
+Level-1
+Max number of moves allowed: 3
++-------+  +-------+
+| e | 0 |  | 0 | e |
+| a | 0 |  | 0 | a |
++-------+  +-------+
+Current moves : 0
+Enter move in the format 'current-x-cord,current-y-cord,to-x-cord,to-y-cord ' : 0,0,0,0
+You have lost :(
+
